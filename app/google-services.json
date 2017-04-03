@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "98760461065",
+    "firebase_url": "https://retenesculiacan-fbdb.firebaseio.com",
+    "project_id": "retenesculiacan-fbdb",
+    "storage_bucket": "retenesculiacan-fbdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98760461065:android:44e993adcb0c8500",
+        "android_client_info": {
+          "package_name": "mx.com.visionsoft.retenesculiacan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98760461065-3bmq082j8ji01if2i30n2862srv8drif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.com.visionsoft.retenesculiacan",
+            "certificate_hash": "5b12a5091ccb302359cd46e0f57040c4816abfaa"
+          }
+        },
+        {
+          "client_id": "98760461065-j7tm7n6dsblgne9ikcis2cc1etvcble1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlAGYg5Y7mp0yNOOLX1N8P8O7kU1RESUs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98760461065-j7tm7n6dsblgne9ikcis2cc1etvcble1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
